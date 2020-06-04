@@ -7,6 +7,14 @@
     "test": "jest"
   },
   "author": "Eduard Castellano",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:educastellano/cache-entity.git"
+  },
+  "bugs": {
+    "url": "https://github.com/educastellano/cache-entity/issues"
+  },
+  "homepage": "https://github.com/educastellano/cache-entity#readme",
   "license": "ISC",
   "devDependencies": {
     "jest": "^26.0.1"
