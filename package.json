@@ -1,0 +1,18 @@
+{
+  "name": "cache-entity",
+  "version": "1.0.0",
+  "description": "Cache remote resources in a key-value store",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Eduard Castellano",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "dependencies": {
+    "template-format": "^1.2.5",
+    "node-fetch": "^2.6.0"
+  }
+}
