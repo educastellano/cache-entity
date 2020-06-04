@@ -1,6 +1,6 @@
 {
   "name": "cache-entity",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cache remote resources in a key-value store",
   "main": "index.js",
   "scripts": {
